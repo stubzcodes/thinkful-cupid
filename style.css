@@ -184,11 +184,13 @@ footer p {
   header {
     display:flex;
     justify-content: space-between;
+    align-items: center;
   }
 
   .logo {
     margin-bottom: 14px;
     padding-top: 0;
+    font-size: 30px;
   }
 
   header nav {
@@ -197,6 +199,12 @@ footer p {
 
   header nav ul li a:hover {
     color: #F694C1;
+  }
+
+  header nav ul li{
+    font-size: 15px;
+    align-items: center;
+    padding-bottom: 20px;
   }
 
   /* ------ Join ------ */
@@ -238,7 +246,7 @@ footer p {
   .about-p {
     justify-content: flex-start;
     flex: .9;
-    padding-left: 10px;
+    margin-left: 20px;
   }
 
   /* ------ Download ------*/
