@@ -110,6 +110,8 @@ Within the media query, write CSS to create the following designs for desktop:
 - The blog posts in the "Blog" section should be displayed in a 2 by 2 grid (see the desktop design shared above)
 
 
-### Live Link
+### About
+
+This website can be found at the following live link:
 
 https://stubzcodes.github.io/thinkful-cupid/
